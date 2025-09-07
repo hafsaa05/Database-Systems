@@ -1,3 +1,5 @@
+## Output Screenshots:
+
 ## Q1:
 <img width="357" height="92" alt="image" src="https://github.com/user-attachments/assets/013c1932-5a51-4ca9-a2bf-4243da781c73" />
 
