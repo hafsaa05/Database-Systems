@@ -1,7 +1,8 @@
 ## Output Screenshots:
 
 ## Q11:
-<img width="917" height="241" alt="image" src="https://github.com/user-attachments/assets/432dbe84-7859-41b7-aafa-456f70c818bf" />
+<img width="1214" height="208" alt="image" src="https://github.com/user-attachments/assets/8ed303e0-29c3-4726-b20e-e0e5bfa46874" />
+
 
 
 ## Q12:
