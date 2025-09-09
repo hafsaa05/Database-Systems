@@ -10,6 +10,8 @@
 <img width="1623" height="175" alt="q13" src="https://github.com/user-attachments/assets/9fc2d26c-ea97-4801-bcd2-cae0efbb7d62" />
 
 ## Q14:
+# After removing constraint:
+<img width="936" height="140" alt="image" src="https://github.com/user-attachments/assets/744711ac-b5f5-46ae-b5fc-9b8688e023e4" />
 
 ## Q15:
 
