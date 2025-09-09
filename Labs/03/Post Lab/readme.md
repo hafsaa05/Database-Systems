@@ -8,11 +8,12 @@
 <img width="496" height="136" alt="q12" src="https://github.com/user-attachments/assets/847c9d1c-707c-49a8-96d2-e5e24442a8bf" />
 
 ## Q13:
-<img width="1623" height="175" alt="q13" src="https://github.com/user-attachments/assets/9fc2d26c-ea97-4801-bcd2-cae0efbb7d62" />
+<img width="1314" height="206" alt="image" src="https://github.com/user-attachments/assets/c916b50e-66ae-4192-824c-258e2912431c" />
+
 
 ## Q14:
-# After removing constraint:
-<img width="936" height="140" alt="image" src="https://github.com/user-attachments/assets/744711ac-b5f5-46ae-b5fc-9b8688e023e4" />
+<img width="424" height="143" alt="image" src="https://github.com/user-attachments/assets/5de186a1-8e39-4721-9194-625be57a41be" />
+
 
 ## Q15:
 
