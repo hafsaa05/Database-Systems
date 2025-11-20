@@ -28,4 +28,4 @@
 
 <img width="481" height="309" alt="image" src="https://github.com/user-attachments/assets/04415094-8258-4d07-a864-5daf8bd9223f" />
 
-![Uploading image.png…]()
+<img width="439" height="107" alt="Screenshot 2025-11-20 102532" src="https://github.com/user-attachments/assets/225e404d-e687-4a7f-b10d-2f3496073eba" />
