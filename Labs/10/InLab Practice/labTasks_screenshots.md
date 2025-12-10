@@ -1,15 +1,10 @@
 ## Task 1 
 
 <img width="362" height="112" alt="Screenshot 2025-12-10 074403" src="https://github.com/user-attachments/assets/d14da2d0-612f-4e0e-b582-642046232d7d" />
-
 <img width="247" height="66" alt="image" src="https://github.com/user-attachments/assets/50285527-4710-4194-af13-cdc4c0158253" />
-
 <img width="252" height="174" alt="image" src="https://github.com/user-attachments/assets/50d4b63b-09fe-449a-b146-cdf539ef8708" />
-
 <img width="247" height="66" alt="image" src="https://github.com/user-attachments/assets/d3d8a7f3-71f2-482e-834b-294462431edc" />
-
 <img width="594" height="117" alt="image" src="https://github.com/user-attachments/assets/d00be057-016b-4abc-8c86-8be923fedb0b" />
-
 <img width="579" height="125" alt="image" src="https://github.com/user-attachments/assets/ae0456ad-3606-4790-af0f-59004f1efe8b" />
 
 ## Task 2
